@@ -25,7 +25,7 @@ Make sure you have [Node.js](http://nodejs.org/) installed.
 2. Open project directory and install NPM packages:
 
    ```sh
-   cd SecretSanta
+   cd santa
    npm install
    ```
 
